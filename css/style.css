@@ -1,0 +1,40 @@
+body {
+    background-color: lightpink;
+    font-family:"Times New Roman"; 
+}
+
+h1{
+  color:black;
+  font-size:5em;
+  font-family:Lobster;
+  margin-bottom:60px;
+  margin-top:40px;
+}
+
+#twitterIcon{
+  color:rgb(85, 172, 238);
+}
+.q-box{
+  background-color:white;
+  color: plack;
+  padding:15px;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom:15px;
+  border-radius:10px; 
+  border-style: dotted;
+}
+
+.quote{
+  font-size:30px; 
+}
+
+.author{
+  font-size:20px;
+  font-style:italic;
+}
+
+.footerM{
+margin-top:100px;
+}
